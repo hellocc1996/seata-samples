@@ -15,7 +15,7 @@ import io.seata.spring.annotation.GlobalTransactional;
 import org.springframework.stereotype.Service;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description  Dubbo业务发起方逻辑
  * @Date Created in 2019/1/14 18:36
  */

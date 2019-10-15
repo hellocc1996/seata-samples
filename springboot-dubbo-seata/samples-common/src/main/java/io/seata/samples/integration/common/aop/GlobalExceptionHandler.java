@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description  全局异常处理
  * @Date Created in 2019/1/9 14:12
  */

@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 账户扣钱
  * </p>
  *
- * @author heshouyou
+ * @author
  * @since 2019-01-13
  */
 @RestController

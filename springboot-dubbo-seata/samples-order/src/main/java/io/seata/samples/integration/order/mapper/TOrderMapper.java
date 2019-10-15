@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Param;
  *  Mapper 接口
  * </p>
  *
- * @author heshouyou
+ * @author
  * @since 2019-01-13
  */
 public interface TOrderMapper extends BaseMapper<TOrder> {

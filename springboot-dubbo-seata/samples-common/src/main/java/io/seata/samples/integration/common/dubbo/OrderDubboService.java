@@ -4,7 +4,7 @@ import io.seata.samples.integration.common.dto.OrderDTO;
 import io.seata.samples.integration.common.response.ObjectResponse;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description  订单服务接口
  * @Date Created in 2019/1/13 16:28
  */

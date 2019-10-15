@@ -4,7 +4,7 @@ import io.seata.samples.integration.common.dto.CommodityDTO;
 import io.seata.samples.integration.common.response.ObjectResponse;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description  仓库服务
  * @Date Created in 2019/1/13 16:22
  */

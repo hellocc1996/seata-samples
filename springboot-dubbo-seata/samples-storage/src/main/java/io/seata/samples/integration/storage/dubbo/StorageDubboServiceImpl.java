@@ -10,7 +10,7 @@ import io.seata.samples.integration.storage.service.ITStorageService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description
  * @Date Created in 2019/1/23 16:13
  */

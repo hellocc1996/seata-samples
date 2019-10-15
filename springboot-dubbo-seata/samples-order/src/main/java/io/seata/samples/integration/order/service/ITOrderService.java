@@ -10,7 +10,7 @@ import io.seata.samples.integration.order.entity.TOrder;
  *  创建订单
  * </p>
  *
- * @author heshouyou
+ * @author
  * @since 2019-01-13
  */
 public interface ITOrderService extends IService<TOrder> {

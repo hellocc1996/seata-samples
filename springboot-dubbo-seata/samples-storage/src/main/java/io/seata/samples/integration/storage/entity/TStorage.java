@@ -11,7 +11,7 @@ import com.baomidou.mybatisplus.enums.IdType;
  * 
  * </p>
  *
- * @author heshouyou
+ * @author
  * @since 2019-01-13
  */
 public class TStorage extends Model<TStorage> {

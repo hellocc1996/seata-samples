@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description  Dubbo业务执行入口
  * @Date Created in 2019/1/14 17:15
  */

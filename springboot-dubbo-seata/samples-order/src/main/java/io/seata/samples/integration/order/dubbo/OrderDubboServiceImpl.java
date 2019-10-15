@@ -10,7 +10,7 @@ import io.seata.samples.integration.order.service.ITOrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description
  * @Date Created in 2019/1/23 15:59
  */

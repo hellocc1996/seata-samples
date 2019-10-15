@@ -4,7 +4,7 @@ import io.seata.samples.integration.common.dto.AccountDTO;
 import io.seata.samples.integration.common.response.ObjectResponse;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description  账户服务接口
  * @Date Created in 2019/1/13 16:37
  */

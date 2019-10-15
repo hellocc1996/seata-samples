@@ -10,7 +10,7 @@ import io.seata.samples.integration.common.response.ObjectResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @Author: heshouyou
+ * @Author:
  * @Description  Dubbo Api Impl
  * @Date Created in 2019/1/23 14:40
  */

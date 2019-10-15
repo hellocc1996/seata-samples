@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
  *  库存服务实现类
  * </p>
  *
- * @author heshouyou
+ * @author
  * @since 2019-01-13
  */
 @Service
